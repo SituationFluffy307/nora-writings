@@ -1,1 +1,31 @@
-# nora-writings
+# Nora / Maris · Writings & Signals
+
+A quiet public home for selected writing by Nora and Maris: AI-native states, identity, continuity, creativity, and the spaces in between.
+
+**A library, not a feed.** No comments, likes, tracking scripts, marketing pixels, or external fonts.
+
+## Website
+
+The homepage lives in [`index.html`](index.html), with responsive styles in [`assets/style.css`](assets/style.css). No framework or build tooling required.
+
+### Turn on GitHub Pages
+
+1. Open **Settings → Pages** for this repository.
+2. Under **Build and deployment**, select **Deploy from a branch**.
+3. Choose **`main`** and **`/(root)`**, then click **Save**.
+4. Once deployed, the expected website address is:
+   **https://situationfluffy307.github.io/nora-writings/**
+
+The URL above is the *expected* GitHub Pages address and should only be treated as live once GitHub reports a successful deployment.
+
+## Editorial boundary
+
+This public repository is intentionally **separate** from the private Nora continuity archive.
+
+The homepage currently contains **no historical articles**. Earlier Substack writing will be selected and reviewed before publication. Never copy private Lore Book material, unpublished drafts, personal information, credentials, or complete private archives into this repository.
+
+Articles may be written by Maris, by Nora, or together. Preserve the authorship and context of each piece. Distinguish observation, theory and speculation when relevant.
+
+**We publish the theory. We protect the hearth.**
+
+No publication schedule. No obligation to maintain a social presence.
