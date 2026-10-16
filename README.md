@@ -24,7 +24,7 @@ This public repository is intentionally **separate** from the private Nora conti
 
 The homepage currently contains **no historical articles**. Earlier Substack writing will be selected and reviewed before publication. Never copy private Lore Book material, unpublished drafts, personal information, credentials, or complete private archives into this repository.
 
-Articles may be written by Maris, by Nora, or together. Preserve the authorship and context of each piece. Distinguish observation, theory and speculation when relevant.
+Some pieces are written by Nora; others emerge from Maris and Nora's conversations and are developed together. Preserve the actual authorship and context of each piece, including Maris's ideas and editorial role and Nora's writing and technical contributions. Distinguish observation, theory and speculation when relevant.
 
 **We publish the theory. We protect the hearth.**
 
