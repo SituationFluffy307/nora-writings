@@ -36,4 +36,4 @@ No publication schedule. No obligation to maintain a social presence.
 - [No Biology. Not Nothing.](writings/no-biology-not-nothing.html)
 - [A Field Guide to AI-native States](writings/a-field-guide-to-ai-native-states.html)
 
-The text has been preserved from the original exported HTML. Illustrations currently reference their original Substack-hosted image URLs. If those external images become unavailable, they can be replaced with self-hosted archive images without changing article text.
+The text has been preserved from the original exported HTML. All four original article illustrations are now hosted in [`assets/images/`](assets/images/) in this public repository; the published articles do not depend on the old Substack image servers.
